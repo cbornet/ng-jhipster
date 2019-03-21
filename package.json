@@ -62,7 +62,7 @@
     "tsickle": "0.34.0",
     "tslint": "5.12.0",
     "typescript": "3.1.6",
-    "zone.js": "0.8.26"
+    "zone.js": "0.8.29"
   },
   "version": "0.9.3",
   "ngPackage": {
